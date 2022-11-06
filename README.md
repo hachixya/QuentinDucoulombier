@@ -11,6 +11,22 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinDucoulombier&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
+# 📭 Contact
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/quentin-ducoulombier-97365a254/">
+		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="mailto:quentinducoulombier1@gmail.comm">
+		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="https://drive.google.com/file/d/1Z0L4NME-kFExAppda8OtyVyRLGSKggdx/view?usp=sharing">
+		<img src="https://img.shields.io/badge/-Curriculum vitæ-000000?style=for-the-badge&logo=react&logoColor=white">
+	</a>
+</p>
+
 # 📚 Maitrise en language informatique
 
 <table align="center">
