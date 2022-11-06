@@ -37,6 +37,7 @@
             <td align="center"><a href="https://jquery.com/">jQuery</a></td>
 	    <td>	</td>
 	    <td>	</td>
+	    <td>	</td>
 		</tr>
 	</tbody>
 </table>
