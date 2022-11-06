@@ -7,7 +7,8 @@
 
 - 👨: Bonjour, J'ai 20 ans et je suis en première année du cycle ingénieur à [CY Tech](https://cytech.cyu.fr) (école d'ingénieurs informatique) à Pau.  
 - 👾: Je suis passionné par l'informatique et les sciences.  
-- 🔭: Je recherche un stage de début juin à début septembre dans le domaine de la programmation.
+- 🔭: Je recherche un stage de début juin à début septembre dans le domaine de la programmation.  
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinDucoulombier&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 # 📚 Maitrise en language informatique
@@ -56,9 +57,9 @@ Site web qui affecte des options de CY Tech en fonction du classement et des cho
 
 ## 💻 Projets en C
 
-### Projet Huffman
-### Jeu de la vie
-### SE-Prio
+### [Projet Huffman](https://github.com/QuentinDucoulombier/Projet-huffman) (Decembre 2021)
+### [Jeu de la vie](https://github.com/QuentinDucoulombier/Jeu-De-La-Vie) (Mai 2021)
+### [SE-Prio](https://github.com/QuentinDucoulombier/SE-Prio) (Octobre 2022)
 
 ## 🌍 [Script Shell](https://github.com/QuentinDucoulombier/Projet-Script-Shell-Pays) (Janvier 2022)
 
@@ -71,7 +72,7 @@ Exemple de graphique :
 	<a href="https://github.com/QuentinDucoulombier/Projet-Script-Shell-Pays"><img src="https://raw.githubusercontent.com/QuentinDucoulombier/Projet-Script-Shell-Pays/main/ressourcesReadme/screenProjetScriptShell.png" width="400"></a>
 </p>
 
-## 🔬 [Resolution équation de Schrödinger](https://gitlab.etude.cy-tech.fr/fauchernoe/be-code) (Mai 2022)
+## 🔬 [Resolution équation de Schrödinger](https://github.com/QuentinDucoulombier/Bureau-DEtude) (Mai 2022)
 
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuentinDucoulombier)](https://github.com/anuraghazra/github-readme-stats)-->
