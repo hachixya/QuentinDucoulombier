@@ -60,6 +60,9 @@ Site web qui affecte des options de CY Tech en fonction du classement et des cho
 ### [Projet Huffman](https://github.com/QuentinDucoulombier/Projet-huffman) (Decembre 2021)
 ### [Jeu de la vie](https://github.com/QuentinDucoulombier/Jeu-De-La-Vie) (Mai 2021)
 ### [SE-Prio](https://github.com/QuentinDucoulombier/SE-Prio) (Octobre 2022)
+Petit projet pour ordonner les processus en fonction de la Priorité (en préemptif et en non préemptif).  
+Exemple de résultat :
+
 
 ## 🌍 [Script Shell](https://github.com/QuentinDucoulombier/Projet-Script-Shell-Pays) (Janvier 2022)
 
