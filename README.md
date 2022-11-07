@@ -69,6 +69,11 @@
 ## 📖 [CY-Parcours](https://github.com/QuentinDucoulombier/CY-parcours) (Juin 2022)
 
 Site web qui affecte des options de CY Tech en fonction du classement et des choix des étudiants grâce à l'algorithme de [mariage stable](https://fr.wikipedia.org/wiki/Algorithme_de_Gale_et_Shapley) (utilisation de js, php, html, css).
+
+Exemple d'acceuil : 
+<p align="center">
+	<a href="https://github.com/QuentinDucoulombier/CY-parcours"><img src="https://raw.githubusercontent.com/QuentinDucoulombier/CY-parcours/main/data/screen/Acceuil%20prof.png" width="700"></a>
+</p>
 <!--TODO ajouter photo projet-->
 
 ## 💻 Projets en C
