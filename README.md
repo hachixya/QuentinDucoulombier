@@ -80,6 +80,13 @@ Exemple d'acceuil :
 
 ### [Projet Huffman](https://github.com/QuentinDucoulombier/Projet-huffman) (Decembre 2021)
 
+
+Le codage de Huffman est un algorithme de compression de données sans perte. Le codage de Huffman utilise un code à longueur variable pour représenter un symbole de la source (par exemple un caractère dans un fichier). Le code est déterminé à partir d'une estimation des probabilités d'apparition des symboles de source, un code court étant associé aux symboles de source les plus fréquents.
+
+Un code de Huffman est optimal au sens de la plus courte longueur pour un codage par symbole, et une distribution de probabilité connue. Des méthodes plus complexes réalisant une modélisation probabiliste de la source permettent d'obtenir de meilleurs ratios de compression.
+
+Ce algorithme permet de compresse en binaire puis de decompresse des fichiers texte grace au codage de Huffman, ainsi il utilise des arbres binaire, des tri rapide et des listes chainées.
+
 ### [Jeu de la vie](https://github.com/QuentinDucoulombier/Jeu-De-La-Vie) (Mai 2021)
 Le [jeu de la vie](https://fr.wikipedia.org/wiki/Jeu_de_la_vie) est un automate cellulaire. Il s'agit d'un jeu sans joueur, ce qui signifie que son évolution est déterminée par son état initial et ne nécessite aucune autre entrée. On interagit avec le jeu de la vie en créant une configuration initiale et en observant comment elle évolue. Il est turing complet.  
 Exemple de graphique:
@@ -90,6 +97,9 @@ Exemple de graphique:
 ### [SE-Prio](https://github.com/QuentinDucoulombier/SE-Prio) (Octobre 2022)
 Petit projet pour ordonner les processus en fonction de la Priorité (en préemptif et en non préemptif).  
 Exemple de résultat :
+<p align="center">
+	<a href="https://github.com/QuentinDucoulombier/SE-Prio"><img src="https://raw.githubusercontent.com/QuentinDucoulombier/SE-Prio/main/dataForReadme/SE-Prio.png" width="400"></a>
+</p>
 
 
 ## 🌍 [Script Shell](https://github.com/QuentinDucoulombier/Projet-Script-Shell-Pays) (Janvier 2022)
