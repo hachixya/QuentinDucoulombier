@@ -9,7 +9,6 @@
 - 👾: Je suis passionné par l'informatique et les sciences.  
 - 🔭: Je recherche un stage de début juin à début septembre dans le domaine de la programmation.  
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinDucoulombier&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 # 📭 Contact
 
@@ -66,9 +65,9 @@
 
 # 📂 Projets
 
-## 📖 [CY-Parcours](https://github.com/QuentinDucoulombier/CY-parcours) (Juin 2022)
+## 📖 [CY-Parcours](https://github.com/QuentinDucoulombier/CY-parcours) Développement Web (Juin 2022)
 
-Site web qui affecte des options de CY Tech en fonction du classement et des choix des étudiants grâce à l'algorithme de [mariage stable](https://fr.wikipedia.org/wiki/Algorithme_de_Gale_et_Shapley) (utilisation de js, php, html, css).
+Site web qui affecte des options de CY Tech en fonction du classement et des choix des étudiants grâce à l'algorithme de [mariage stable](https://fr.wikipedia.org/wiki/Algorithme_de_Gale_et_Shapley) (utilisation de js, php, html, css, de l'ajax et de jQuery).
 
 Exemple d'acceuil : 
 <p align="center">
