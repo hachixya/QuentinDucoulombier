@@ -91,7 +91,7 @@ Ce algorithme permet de compresse en binaire puis de decompresse des fichiers te
 Le [jeu de la vie](https://fr.wikipedia.org/wiki/Jeu_de_la_vie) est un automate cellulaire. Il s'agit d'un jeu sans joueur, ce qui signifie que son évolution est déterminée par son état initial et ne nécessite aucune autre entrée. On interagit avec le jeu de la vie en créant une configuration initiale et en observant comment elle évolue. Il est turing complet.  
 Exemple de graphique:
 <p align="center">
-	<a href="https://github.com/QuentinDucoulombier/Jeu-De-La-Vie"><img src="https://github.com/QuentinDucoulombier/Jeu-De-La-Vie/blob/main/dataForReadme/clown.gif?raw=true" width="700"></a>
+	<a href="https://github.com/QuentinDucoulombier/Jeu-De-La-Vie"><img src="https://github.com/QuentinDucoulombier/Jeu-De-La-Vie/blob/main/dataForReadme/clown.gif?raw=true" width="600"></a>
 </p>
 
 ### [SE-Prio](https://github.com/QuentinDucoulombier/SE-Prio) (Octobre 2022)
