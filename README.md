@@ -115,5 +115,18 @@ Exemple de graphique :
 
 ## 🔬 [Resolution équation de Schrödinger](https://github.com/QuentinDucoulombier/Bureau-DEtude) (Mai 2022)
 
+L'objectif de ce projet est de résoudre l'équation de Schrödinger grâce a un programme en c des configurations ou cette équation n'est pas resolvable a la "main".  
+
+Equation de Schrödinger:
+
+<p align="center">
+	<a href="https://github.com/QuentinDucoulombier/Bureau-DEtude"><img src="https://raw.githubusercontent.com/QuentinDucoulombier/Bureau-DEtude/main/documentation/explication/img/equation2.png"></a><br />
+	<a href="https://github.com/QuentinDucoulombier/Bureau-DEtude"><img src="https://raw.githubusercontent.com/QuentinDucoulombier/Bureau-DEtude/main/documentation/explication/img/equation1.png"></a>
+</p>
+
+
+Pour cela nous utilisons deux methodes :
+- La methode de rkf45 
+- La methode de powell
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuentinDucoulombier)](https://github.com/anuraghazra/github-readme-stats)-->
