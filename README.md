@@ -65,7 +65,7 @@
 
 # 📂 Projets
 
-## 📖 [CY-Parcours](https://github.com/QuentinDucoulombier/CY-parcours) Développement Web (Juin 2022)
+## 📖 [CY-Parcours](https://github.com/QuentinDucoulombier/CY-parcours) (Développement Web, Juin 2022)
 
 Site web qui affecte des options de CY Tech en fonction du classement et des choix des étudiants grâce à l'algorithme de [mariage stable](https://fr.wikipedia.org/wiki/Algorithme_de_Gale_et_Shapley) (utilisation de js, php, html, css, de l'ajax et de jQuery).
 
@@ -101,7 +101,7 @@ Exemple de résultat :
 </p>
 
 
-## 🌍 [Script Shell](https://github.com/QuentinDucoulombier/Projet-Script-Shell-Pays) (Janvier 2022)
+## 🌍 [Script Shell](https://github.com/QuentinDucoulombier/Projet-Script-Shell-Pays) (en bash, Janvier 2022)
 
 Ce projet permet l’exploitation de fichiers .csv contenant des informations énergétiques selon des pays/continents et/ou selon le temps.
 Notre projet permet de représenter ces données à l'aide de graphiques pour les illustrer et les comparer. De plus, à l'aide de certaines commandes, nous avons accès plus facilement aux données (par exemple la consommation totale d’une certaine énergie renouvelable).
@@ -112,7 +112,7 @@ Exemple de graphique :
 	<a href="https://github.com/QuentinDucoulombier/Projet-Script-Shell-Pays"><img src="https://raw.githubusercontent.com/QuentinDucoulombier/Projet-Script-Shell-Pays/main/ressourcesReadme/screenProjetScriptShell.png" width="400"></a>
 </p>
 
-## 🔬 [Resolution équation de Schrödinger](https://github.com/QuentinDucoulombier/Bureau-DEtude) (Mai 2022)
+## 🔬 [Resolution équation de Schrödinger](https://github.com/QuentinDucoulombier/Bureau-DEtude) (en C, Mai 2022)
 
 L'objectif de ce projet est de résoudre l'équation de Schrödinger grâce a un programme en c des configurations ou cette équation n'est pas resolvable a la "main".  
 
