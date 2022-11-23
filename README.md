@@ -42,7 +42,7 @@
 			<td align="center"><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></td>
             <td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td>
             <td align="center"><a href="https://sql.sh">SQL</a></td>
-            <td align="center"><a href="https://fr.wikipedia.org/wiki/Shell_Unix">Shell Unix</a></td>
+            <td align="center"><a href="https://en.wikipedia.org/wiki/Unix_shell">Shell Unix</a></td>
 		</tr>
 		<tr>
             <td align="center"><a href="https://www.python.org/">Python</a></td>
