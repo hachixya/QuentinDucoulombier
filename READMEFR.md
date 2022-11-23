@@ -84,7 +84,7 @@ Le codage de Huffman est un algorithme de compression de données sans perte. Le
 
 Un code de Huffman est optimal au sens de la plus courte longueur pour un codage par symbole, et une distribution de probabilité connue. Des méthodes plus complexes réalisant une modélisation probabiliste de la source permettent d'obtenir de meilleurs ratios de compression.
 
-Ce algorithme permet de compresse en binaire puis de decompresse des fichiers texte grace au codage de Huffman, ainsi il utilise des arbres binaire, des tri rapide et des listes chainées.
+Cet algorithme permet de compresse en binaire puis de decompresse des fichiers texte grace au codage de Huffman, ainsi il utilise des arbres binaires, des tris rapides et des listes chainées.
 
 ### [Jeu de la vie](https://github.com/QuentinDucoulombier/Jeu-De-La-Vie) (Mai 2021)
 Le [jeu de la vie](https://fr.wikipedia.org/wiki/Jeu_de_la_vie) est un automate cellulaire. Il s'agit d'un jeu sans joueur, ce qui signifie que son évolution est déterminée par son état initial et ne nécessite aucune autre entrée. On interagit avec le jeu de la vie en créant une configuration initiale et en observant comment elle évolue. Il est turing complet.  
@@ -94,7 +94,7 @@ Exemple de graphique:
 </p>
 
 ### [SE-Prio](https://github.com/QuentinDucoulombier/SE-Prio) (Octobre 2022)
-Petit projet pour ordonner les processus en fonction de la Priorité (en préemptif et en non préemptif).  
+Petit projet pour ordonner les processus en fonction de la priorité (en préemptif et en non préemptif).  
 Exemple de résultat :
 <p align="center">
 	<a href="https://github.com/QuentinDucoulombier/SE-Prio"><img src="https://raw.githubusercontent.com/QuentinDucoulombier/SE-Prio/main/dataForReadme/SE-Prio.png" width="400"></a>
@@ -114,7 +114,7 @@ Exemple de graphique :
 
 ## 🔬 [Resolution équation de Schrödinger](https://github.com/QuentinDucoulombier/Bureau-DEtude) (en C, Mai 2022)
 
-L'objectif de ce projet est de résoudre l'équation de Schrödinger grâce a un programme en c des configurations ou cette équation n'est pas resolvable a la "main".  
+L'objectif de ce projet est de résoudre l'équation de Schrödinger grâce à un programme en c des configurations ou cette équation n'est pas resolvable a la "main".  
 
 Equation de Schrödinger:
 
@@ -125,7 +125,7 @@ Equation de Schrödinger:
 
 
 Pour cela nous utilisons deux methodes :
-- La methode de rkf45 
-- La methode de powell
+- La méthode rkf45
+- La méthode de Powell
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuentinDucoulombier)](https://github.com/anuraghazra/github-readme-stats)-->
