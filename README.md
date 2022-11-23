@@ -27,6 +27,8 @@
 
 # 📚 Computer language skills
 
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinDucoulombier&layout=compact)-->
+
 <table align="center">
 	<thead>
 		<tr>
