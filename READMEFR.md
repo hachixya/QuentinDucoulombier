@@ -26,7 +26,7 @@
 	</a>
 </p>
 
-# 📚 Maitrise en language informatique
+# 📚 Maitrise en langage informatique
 
 <table align="center">
 	<thead>

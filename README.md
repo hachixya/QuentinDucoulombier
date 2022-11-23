@@ -1,3 +1,7 @@
+<p align="center">
+	<strong>French version</strong> of this page: <a href="https://github.com/QuentinDucoulombier/QuentinDucoulombier/blob/main/READMEFR.md">here</a>
+</p>
+
 # 👋 About me
 
 - 👨: Hello, I am 20 years old and I am in my first year of the engineering cycle at [CY Tech](https://cytech.cyu.fr) (computer engineering school) in Pau.  
