@@ -62,7 +62,7 @@
 	</tbody>
 </table>
 
-# 📂 Projets
+# 📂 Projects
 
 ## 📖 [CY-Parcours](https://github.com/QuentinDucoulombier/CY-parcours) (Web Development, June 2022)
 
@@ -72,7 +72,7 @@ Example :
 <p align="center">
 	<a href="https://github.com/QuentinDucoulombier/CY-parcours"><img src="https://raw.githubusercontent.com/QuentinDucoulombier/CY-parcours/main/data/screen/Acceuil%20prof.png" width="700"></a>
 </p>
-<!--TODO ajouter photo projet-->
+
 
 ## 💻 Projects in C
 
