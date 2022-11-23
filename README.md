@@ -88,7 +88,7 @@ A Huffman code is optimal in the sense of the shortest length for a per-symbol c
 This algorithm allows to compress in binary then to decompress text files thanks to the Huffman coding, so it uses binary trees, fast sorting and chained lists.
 
 ### [Game of Life](https://github.com/QuentinDucoulombier/Jeu-De-La-Vie) (May 2021)
-The [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) is a cellular automaton. It is a playerless game, which means that its evolution is determined by its initial state and requires no further input. One interacts with the game of life by creating an initial configuration and observing how it evolves. It is turing complete.  
+The [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) is a cellular automaton. It is a zeo-player game, which means that its evolution is determined by its initial state and requires no further input. One interacts with the game of life by creating an initial configuration and observing how it evolves. It is turing complete.  
 Example of a graph:
 <p align="center">
 	<a href="https://github.com/QuentinDucoulombier/Jeu-De-La-Vie"><img src="https://github.com/QuentinDucoulombier/Jeu-De-La-Vie/blob/main/dataForReadme/clown.gif?raw=true" width="600"></a>
