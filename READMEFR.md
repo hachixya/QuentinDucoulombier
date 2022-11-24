@@ -31,7 +31,7 @@
 <table align="center">
 	<thead>
 		<tr>
-			<th colspan="1"><b>Language généraliste</b></th>
+			<th colspan="1"><b>Langage généraliste</b></th>
 			<th colspan="2"><b>Développement web</b></th>
 			<th colspan="1"><b>Base de données</b></th>
 			<th colspan="1"><b>Environnement Unix</b></th>
@@ -39,7 +39,7 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/C_(programming_langage)">C</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></td>
             <td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td>
             <td align="center"><a href="https://sql.sh">SQL</a></td>
