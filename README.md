@@ -48,7 +48,7 @@
 		</tr>
 		<tr>
             <td align="center"><a href="https://www.python.org/">Python</a></td>
-			<!--<td align="center"><a href="https://www.typescriptlang.org/">TypeScript</a></td>-->
+	    <td align="center"><a href="https://www.typescriptlang.org/">TypeScript</a></td>
             <td align="center"><a href="https://en.wikipedia.org/wiki/CSS">CSS</a></td>
             <td align="center"><a href="https://www.php.net/manual/en/intro-whatis.php">PHP</a></td>
             <td>	</td>
