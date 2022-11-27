@@ -20,7 +20,7 @@
 		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
 	<span>&nbsp;</span>
-	<a href="https://drive.google.com/file/d/1md1fsUbuSEj5bgehnWDL0fCXMwiVmoLe/view?usp=sharing">
+	<a href="https://drive.google.com/file/d/18FpKSncOZ-keO6YqNwvLnSPbKUz8o1-c/view?usp=sharing">
 		<img src="https://img.shields.io/badge/-Curriculum vitæ-000000?style=for-the-badge&logo=react&logoColor=white">
 	</a>
 </p>
@@ -48,7 +48,7 @@
 		</tr>
 		<tr>
             <td align="center"><a href="https://www.python.org/">Python</a></td>
-	    <td align="center"><a href="https://www.typescriptlang.org/">TypeScript</a></td>
+	    <!--<td align="center"><a href="https://www.typescriptlang.org/">TypeScript</a></td>-->
             <td align="center"><a href="https://en.wikipedia.org/wiki/CSS">CSS</a></td>
             <td align="center"><a href="https://www.php.net/manual/en/intro-whatis.php">PHP</a></td>
             <td>	</td>
