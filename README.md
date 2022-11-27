@@ -20,7 +20,7 @@
 		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
 	<span>&nbsp;</span>
-	<a href="https://drive.google.com/file/d/18FpKSncOZ-keO6YqNwvLnSPbKUz8o1-c/view?usp=sharing">
+	<a href="https://drive.google.com/file/d/1Kr7I0Iu9r-aR62x8cdiG-W3nwBdhfdd8/view?usp=share_link">
 		<img src="https://img.shields.io/badge/-Curriculum vitæ-000000?style=for-the-badge&logo=react&logoColor=white">
 	</a>
 </p>
