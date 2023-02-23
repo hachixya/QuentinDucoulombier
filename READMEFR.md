@@ -7,7 +7,7 @@
 
 - 👨: Bonjour, J'ai 20 ans et je suis en première année du cycle ingénieur à [CY Tech](https://cytech.cyu.fr) (école d'ingénieurs informatique) à Pau.  
 - 👾: Je suis passionné par l'informatique et les sciences.  
-- 🔭: Je recherche un stage de début juin à début septembre dans le domaine de la programmation.  
+- 🔭: Je recherche un stage de 8 à 12 semaines de début juin dans le domaine de la programmation.  
 
 
 # 📭 Contact
