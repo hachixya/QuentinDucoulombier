@@ -6,7 +6,7 @@
 
 - 👨: Hello, I am 20 years old and I am in my first year of the engineering cycle at [CY Tech](https://cytech.cyu.fr) (computer engineering school) in Pau.  
 - 👾: I am passionate about computer science and sciences.  
-- 🔭: I am looking for an internship from the beginning of June to the beginning of September in the field of programming.  
+- 🔭: I am looking for an internship from the beginning of June in the field of programming.  
 
 
 # 📭 Contact
