@@ -5,7 +5,7 @@
 
 # 👋 A Propos de moi
 
-- 👨: Bonjour, J'ai 20 ans et je suis en première année du cycle ingénieur à [CY Tech](https://cytech.cyu.fr) (école d'ingénieurs informatique) à Pau.  
+- 👨: Bonjour, J'ai 21 ans et je suis en première année du cycle ingénieur à [CY Tech](https://cytech.cyu.fr) (école d'ingénieurs informatique) à Pau.  
 - 👾: Je suis passionné par l'informatique et les sciences.  
 - 🔭: Je recherche un stage de début juin à début septembre dans le domaine de la programmation.  
 
