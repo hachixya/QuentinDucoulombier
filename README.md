@@ -6,7 +6,7 @@
 
 - 👨: Hello, I am 21 years old and I am in my first year of the engineering cycle at [CY Tech](https://cytech.cyu.fr) (computer engineering school) in Pau.  
 - 👾: I am passionate about computer science and sciences.  
-- 🔭: I am looking for an internship from the beginning of June to the beginning of September in the field of programming.  
+- 🔭: I am looking for an internship from the beginning of 8 to 12 weeks from June in the field of programming.  
 
 
 # 📭 Contact
@@ -20,7 +20,7 @@
 		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
 	<span>&nbsp;</span>
-	<a href="https://drive.google.com/file/d/1md1fsUbuSEj5bgehnWDL0fCXMwiVmoLe/view?usp=sharing">
+	<a href="https://drive.google.com/file/d/18FpKSncOZ-keO6YqNwvLnSPbKUz8o1-c/view?usp=share_link">
 		<img src="https://img.shields.io/badge/-Curriculum vitæ-000000?style=for-the-badge&logo=react&logoColor=white">
 	</a>
 </p>
@@ -48,7 +48,6 @@
 		</tr>
 		<tr>
             <td align="center"><a href="https://www.python.org/">Python</a></td>
-			<!--<td align="center"><a href="https://www.typescriptlang.org/">TypeScript</a></td>-->
             <td align="center"><a href="https://en.wikipedia.org/wiki/CSS">CSS</a></td>
             <td align="center"><a href="https://www.php.net/manual/en/intro-whatis.php">PHP</a></td>
             <td>	</td>
@@ -57,7 +56,7 @@
 		<tr>
             <td align="center"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a></td>
             <td align="center"><a href="https://jquery.com/">jQuery</a></td>
-	    <td>	</td>
+	    	<td align="center"><a href="https://nodejs.org/en/">Node.js</a></td>
 	    <td>	</td>
 	    <td>	</td>
 		</tr>
