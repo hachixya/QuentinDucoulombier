@@ -21,7 +21,7 @@
 		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
 	<span>&nbsp;</span>
-	<a href="https://drive.google.com/file/d/1Kr7I0Iu9r-aR62x8cdiG-W3nwBdhfdd8/view?usp=sharing">
+	<a href="https://www.canva.com/design/DAFbOKsjfPQ/B7g4gUWrj1rMnjgelhHQ9Q/view?utm_content=DAFbOKsjfPQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 		<img src="https://img.shields.io/badge/-Curriculum vitæ-000000?style=for-the-badge&logo=react&logoColor=white">
 	</a>
 </p>
