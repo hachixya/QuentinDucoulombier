@@ -65,7 +65,9 @@
 
 # 📂 Projets
 
-## 📖 [CY-Parcours](https://github.com/QuentinDucoulombier/CY-parcours) (Développement Web, Juin 2022)
+## Projet en developement web
+
+### 📖 [CY-Parcours](https://github.com/QuentinDucoulombier/CY-parcours) (Développement Web, Juin 2022)
 
 Site web qui affecte des options de CY Tech en fonction du classement et des choix des étudiants grâce à l'algorithme de [mariage stable](https://fr.wikipedia.org/wiki/Algorithme_de_Gale_et_Shapley) (utilisation de js, php, html, css, de l'ajax et de jQuery).
 
@@ -74,6 +76,21 @@ Exemple d'acceuil :
 	<a href="https://github.com/QuentinDucoulombier/CY-parcours"><img src="https://raw.githubusercontent.com/QuentinDucoulombier/CY-parcours/main/data/screen/Acceuil%20prof.png" width="700"></a>
 </p>
 <!--TODO ajouter photo projet-->
+
+<!--
+### TASTADION
+
+Site web de vente de destination mystere
+
+
+### ~~Blind~~ test
+
+Projet personnel en cours de "blind test" developpe notamment en node.js
+Le concept est simple
+- Au debut que cover
+- Musique pendant 10 sec
+- Musique pendant 30 sec
+-->
 
 ## 💻 Projets en C
 

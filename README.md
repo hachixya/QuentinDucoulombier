@@ -65,6 +65,8 @@
 
 # 📂 Projects
 
+## Projects in web developement
+
 ## 📖 [CY-Parcours](https://github.com/QuentinDucoulombier/CY-parcours) (Web Development, June 2022)
 
 Website that assigns CY Tech options based on students' rankings and choices using the [stable marriage](https://en.wikipedia.org/wiki/Gale–Shapley_algorithm) algorithm (using js, php, html, css, ajax and jQuery).
@@ -73,6 +75,10 @@ Example of homepage:
 <p align="center">
 	<a href="https://github.com/QuentinDucoulombier/CY-parcours"><img src="https://raw.githubusercontent.com/QuentinDucoulombier/CY-parcours/main/data/screen/Acceuil%20prof.png" width="700"></a>
 </p>
+
+<!--### TASTADION 
+
+### Projet Cover-->
 
 
 ## 💻 Projects in C
