@@ -75,22 +75,32 @@ Exemple d'acceuil :
 <p align="center">
 	<a href="https://github.com/QuentinDucoulombier/CY-parcours"><img src="https://raw.githubusercontent.com/QuentinDucoulombier/CY-parcours/main/data/screen/Acceuil%20prof.png" width="700"></a>
 </p>
-<!--TODO ajouter photo projet-->
 
-<!--
-### TASTADION
+### TASTADION(Développement Web, Mai 2023)
 
-Site web de vente de destination mystere
+Site web de vente en ligne de destination mystère (utilisation de js, php, html, css, de l'ajax et de base de données (MySQL)).
 
+Exemple d'acceuil
+<p align="center">
+	<a href="https://github.com/QuentinDucoulombier/CYTECH-dev-web/tree/main/INGdevWeb/ING1GI3-DUCOULOMBIER-QUENTIN"><img src="https://raw.githubusercontent.com/QuentinDucoulombier/CYTECH-dev-web/main/photo/articles.png" width="700"></a>
+</p>
 
 ### ~~Blind~~ test
 
-Projet personnel en cours de "blind test" developpe notamment en node.js
-Le concept est simple
-- Au debut que cover
-- Musique pendant 10 sec
-- Musique pendant 30 sec
--->
+Projet personnel en cours de développement de "blind test" développé notamment en Node.js et ejs grace a l'api spotify. 
+   
+Le concept est simple:   
+Chaque jour l'utilisateur doit deviner une nouvelle musique, pour cela il a plusieurs essaies: 
+- Au premier uniquement la cover de la musique
+- Puis un extrait de la musique pendant 10 secs
+- Ensuite le même extrait pendant 30 secs
+- ...
+
+Interface actuel:
+<p align="center">
+	<img src="https://raw.githubusercontent.com/QuentinDucoulombier/QuentinDucoulombier/photo/projetcover.png" width="700"></a>
+</p>
+
 
 ## 💻 Projets en C
 
