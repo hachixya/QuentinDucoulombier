@@ -76,7 +76,7 @@ Exemple d'acceuil :
 	<a href="https://github.com/QuentinDucoulombier/CY-parcours"><img src="https://raw.githubusercontent.com/QuentinDucoulombier/CY-parcours/main/data/screen/Acceuil%20prof.png" width="700"></a>
 </p>
 
-### TASTADION(Développement Web, Mai 2023)
+### ✈️ [TASSTAITIDN](https://github.com/QuentinDucoulombier/CYTECH-dev-web/tree/main/INGdevWeb/ING1GI3-DUCOULOMBIER-QUENTIN) (Développement Web, Mai 2023)
 
 Site web de vente en ligne de destination mystère (utilisation de js, php, html, css, de l'ajax et de base de données (MySQL)).
 
@@ -85,7 +85,7 @@ Exemple d'acceuil
 	<a href="https://github.com/QuentinDucoulombier/CYTECH-dev-web/tree/main/INGdevWeb/ING1GI3-DUCOULOMBIER-QUENTIN"><img src="https://raw.githubusercontent.com/QuentinDucoulombier/CYTECH-dev-web/main/photo/articles.png" width="700"></a>
 </p>
 
-### ~~Blind~~ test
+### 🎵 ~~Blind~~ test (Développement Web, En cours)
 
 Projet personnel en cours de développement de "blind test" développé notamment en Node.js et ejs grace a l'api spotify. 
    
@@ -98,7 +98,7 @@ Chaque jour l'utilisateur doit deviner une nouvelle musique, pour cela il a plus
 
 Interface actuel:
 <p align="center">
-	<img src="https://raw.githubusercontent.com/QuentinDucoulombier/QuentinDucoulombier/photo/projetcover.png" width="700"></a>
+	<img src="https://raw.githubusercontent.com/QuentinDucoulombier/QuentinDucoulombier/main/photo/projetcover.png" width="700"></a>
 </p>
 
 

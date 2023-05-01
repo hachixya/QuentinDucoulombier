@@ -67,18 +67,39 @@
 
 ## Projects in web developement
 
-## 📖 [CY-Parcours](https://github.com/QuentinDucoulombier/CY-parcours) (Web Development, June 2022)
+### 📖 [CY-Parcours](https://github.com/QuentinDucoulombier/CY-parcours) (Web Development, June 2022)
 
 Website that assigns CY Tech options based on students' rankings and choices using the [stable marriage](https://en.wikipedia.org/wiki/Gale–Shapley_algorithm) algorithm (using js, php, html, css, ajax and jQuery).
 
-Example of homepage: 
+Example of home page: 
 <p align="center">
 	<a href="https://github.com/QuentinDucoulombier/CY-parcours"><img src="https://raw.githubusercontent.com/QuentinDucoulombier/CY-parcours/main/data/screen/Acceuil%20prof.png" width="700"></a>
 </p>
 
-<!--### TASTADION 
+### ✈️ [TASSTAITIDN](https://github.com/QuentinDucoulombier/CYTECH-dev-web/tree/main/INGdevWeb/ING1GI3-DUCOULOMBIER-QUENTIN) (Web Development, May 2023)
 
-### Projet Cover-->
+Website of mystery destination sale (use of js, php, html, css, ajax and database (MySQL)).  
+  
+Example of home page: 
+<p align="center">
+	<a href="https://github.com/QuentinDucoulombier/CYTECH-dev-web/tree/main/INGdevWeb/ING1GI3-DUCOULOMBIER-QUENTIN"><img src="https://raw.githubusercontent.com/QuentinDucoulombier/CYTECH-dev-web/main/photo/articles.png" width="700"></a>
+</p>
+
+ ### 🎵 ~~Blind~~ test (Web development, In progress)
+
+Personal project under development of "blind test" developed in Node.js and ejs thanks to the spotify api. 
+  
+The concept is simple:   
+Every day the user has to guess a new music, for that he has several tries: 
+- At first only the cover of the music
+- Then an extract of the music for 10 seconds
+- Then the same extract for 30 seconds
+- ...
+
+Current interface:  
+<p align="center">
+	<img src="https://raw.githubusercontent.com/QuentinDucoulombier/QuentinDucoulombier/main/photo/projetcover.png" width="700"></a>
+</p>
 
 
 ## 💻 Projects in C
