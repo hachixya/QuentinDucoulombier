@@ -4,10 +4,11 @@
 
 # 👋 About me
 
+<!-- La ici modifier egalement-->
+
 - 👨: Hello, I am 21 years old and I am in my first year of the engineering cycle at [CY Tech](https://cytech.cyu.fr) (computer engineering school) in Pau.  
 - 👾: I am passionate about computer science and sciences.  
 - 🔭: I am looking for an internship of 8 to 12 weeks in early June in the field of programming.  
-
 
 # 📭 Contact
 
@@ -25,40 +26,64 @@
 	</a>
 </p>
 
-# 📚 Computer language skills
-
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinDucoulombier&layout=compact)-->
+
+<!--
+TODO:
+Rajouter JEE, Prolog,
+Rajouer soft squill ou jsp avec design pattern
+junit
+-->
+
+# 📚 Computer language skills
 
 <table align="center">
 	<thead>
 		<tr>
 			<th colspan="1"><b>General-purpose</b></th>
 			<th colspan="2"><b>Web development</b></th>
-			<th colspan="1"><b>Database</b></th>
-			<th colspan="1"><b>Unix environment</b></th>
+			<th colspan="1"><b>Environment</b></th>
+			<th colspan="1"><b>DevOps Tools</b></th>
+			<th colspan="1"><b>Databases</b></th>
+			<th colspan="1"><b>Other</b></th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></td>
-            <td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td>
-            <td align="center"><a href="https://sql.sh">SQL</a></td>
-            <td align="center"><a href="https://en.wikipedia.org/wiki/Unix_shell">Shell Unix</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Unix_shell">Shell Script</a></td>
+			<td align="center"><a href="https://www.jenkins.io/">Jenkins</a></td>
+			<td align="center"><a href="https://sql.sh">SQL</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Unix_shell">14 Design Patterns</a></td>
 		</tr>
 		<tr>
-            <td align="center"><a href="https://www.python.org/">Python</a></td>
-            <td align="center"><a href="https://en.wikipedia.org/wiki/CSS">CSS</a></td>
-            <td align="center"><a href="https://www.php.net/manual/en/intro-whatis.php">PHP</a></td>
-            <td>	</td>
-            <td align="center"><a href="https://git-scm.com">GIT</a></td>
+			<td align="center"><a href="https://www.python.org/">Python</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/CSS">CSS</a></td>
+			<td align="center"><a href="https://www.php.net/manual/en/intro-whatis.php">PHP</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Linux">Unix / Linux</a></td>
+			<td align="center"><a href="https://www.ansible.com/">Ansible</a></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr>
-            <td align="center"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a></td>
-            <td align="center"><a href="https://jquery.com/">jQuery</a></td>
-	    	<td align="center"><a href="https://nodejs.org/en/">Node.js</a></td>
-	    <td>	</td>
-	    <td>	</td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a></td>
+			<td align="center"><a href="https://jquery.com/">jQuery</a></td>
+			<td align="center"><a href="https://nodejs.org/en/">Node.js</a></td>
+			<td align="center"><a href="https://git-scm.com">GIT</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Prolog">Prolog</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Jakarta_EE">Jakarta EE</a></td>
+			<td align="center"><a href="https://www.docker.com/">Docker</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 	</tbody>
 </table>
@@ -67,11 +92,31 @@
 
 ## Projects in web developement
 
+### 🌟 [Map It Out](https://github.com/QuentinDucoulombier/MapItOut) (Web Development, November 2023)
+
+<!--
+Website en jakarta EE (java) avec jsplus quel techno en respectant le principe MVC. Utilise aussi la bibliotheque jsplus
+
+()-->
+
+### 🧠 [IA Pau website](https://github.com/QuentinDucoulombier/ing1-gi-groupe-1) (Web Development, June 2023)
+
+A showcase website project for the [IA PAU](https://iapau.org/) association, designed to efficiently handle registrations, provide presentations, and oversee a variety of challenges. Additionally, the website conducts an in-depth analysis of code quality and presents detailed statistics.
+
+This website utilizes various technologies including Html/css, js, php, MySQL, and Java (for the API component).
+
+Example of the home page (public access):
+<p align="center">
+	<a href="https://github.com/QuentinDucoulombier/ing1-gi-groupe-1" width="700"><img src="./photo/public.gif" width="800"></a>
+</p>
+
+For more information, check [here](https://docs.google.com/presentation/d/1qzV_f_YjHGfAb2iBl9mgQmtHlzuQVG42ra4eSolH0pw/edit?usp=sharing)
+
 ### 📖 [CY-Parcours](https://github.com/QuentinDucoulombier/CY-parcours) (Web Development, June 2022)
 
 Website that assigns CY Tech options based on students' rankings and choices using the [stable marriage](https://en.wikipedia.org/wiki/Gale–Shapley_algorithm) algorithm (using js, php, html, css, ajax and jQuery).
 
-Example of home page: 
+Example of home page:
 <p align="center">
 	<a href="https://github.com/QuentinDucoulombier/CY-parcours"><img src="https://raw.githubusercontent.com/QuentinDucoulombier/CY-parcours/main/data/screen/Acceuil%20prof.png" width="700"></a>
 </p>
@@ -80,17 +125,19 @@ Example of home page:
 
 Website of mystery destination sale (use of js, php, html, css, ajax and database (MySQL)).  
   
-Example of home page: 
+Example of home page:
+
 <p align="center">
 	<a href="https://github.com/QuentinDucoulombier/CYTECH-dev-web/tree/main/INGdevWeb/ING1GI3-DUCOULOMBIER-QUENTIN"><img src="https://raw.githubusercontent.com/QuentinDucoulombier/CYTECH-dev-web/main/photo/articles.png" width="700"></a>
 </p>
 
- ### 🎵 ~~Blind~~ test (Web development, In progress)
+### 🎵 ~~Blind~~ test (Web development, In progress)
 
-Personal project under development of "blind test" developed in Node.js and ejs thanks to the spotify api. 
+Personal project under development of "blind test" developed in Node.js and ejs thanks to the spotify api.
   
-The concept is simple:   
-Every day the user has to guess a new music, for that he has several tries: 
+The concept is simple:  
+Every day the user has to guess a new music, for that he has several tries:
+
 - At first only the cover of the music
 - Then an extract of the music for 10 seconds
 - Then the same extract for 30 seconds
@@ -101,11 +148,9 @@ Current interface:
 	<img src="https://raw.githubusercontent.com/QuentinDucoulombier/QuentinDucoulombier/main/photo/projetcover.png" width="700"></a>
 </p>
 
-
 ## 💻 Projects in C
 
 ### [Huffman Project](https://github.com/QuentinDucoulombier/Projet-huffman) (December 2021)
-
 
 Huffman coding is a lossless data compression algorithm. Huffman coding uses a variable-length code to represent a source symbol (for example, a character in a file). The code is determined from an estimate of the probabilities of occurrence of source symbols, with a short code associated with the most frequent source symbols.
 
@@ -114,6 +159,7 @@ A Huffman code is optimal in the sense of the shortest length for a per-symbol c
 This algorithm allows to compress in binary then to decompress text files thanks to the Huffman coding, so it uses binary trees, fast sorting and chained lists.
 
 ### [Game of Life](https://github.com/QuentinDucoulombier/Jeu-De-La-Vie) (May 2021)
+
 The [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) is a cellular automaton. It is a zeo-player game, which means that its evolution is determined by its initial state and requires no further input. One interacts with the game of life by creating an initial configuration and observing how it evolves. It is turing complete.  
 Example of a graph:
 <p align="center">
@@ -127,7 +173,6 @@ Example :
 	<a href="https://github.com/QuentinDucoulombier/SE-Prio"><img src="https://raw.githubusercontent.com/QuentinDucoulombier/SE-Prio/main/dataForReadme/SE-Prio.png" width="400"></a>
 </p>
 
-
 ## 🌍 [Script Shell](https://github.com/QuentinDucoulombier/Projet-Script-Shell-Pays) (in bash, January 2022)
 
 This project allows the exploitation of .csv files containing energy information according to countries/continents and/or time.
@@ -139,6 +184,12 @@ Example of a graph:
 	<a href="https://github.com/QuentinDucoulombier/Projet-Script-Shell-Pays"><img src="https://raw.githubusercontent.com/QuentinDucoulombier/Projet-Script-Shell-Pays/main/ressourcesReadme/screenProjetScriptShell.png" width="400"></a>
 </p>
 
+## IA projects
+
+<!--
+fdji
+-->
+<!--
 ## 🔬 [Solving Schrödinger's equation](https://github.com/QuentinDucoulombier/Bureau-DEtude) (in C, May 2022)
 
 The objective of this project is to solve Schrödinger's equation with a program in C for configurations where this equation is not solvable by hand.  
@@ -150,7 +201,16 @@ Schrödinger equation:
 	<a href="https://github.com/QuentinDucoulombier/Bureau-DEtude"><img src="https://raw.githubusercontent.com/QuentinDucoulombier/Bureau-DEtude/main/documentation/explication/img/equation1.png"></a>
 </p>
 
-
 For this we use two methods:
+
 - The rkf45 method
 - Powell's method
+-->
+<!--
+TODO:
+- Rajouter projet JEE(infrastructure API, MVC)
+- Projet Java
+- Projet dev web l'année derniere V
+- Les design patern V
+- IA
+-->
