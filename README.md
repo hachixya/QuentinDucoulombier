@@ -1,14 +1,9 @@
-<p align="center">
-	<strong>French version</strong> of this page: <a href="https://github.com/QuentinDucoulombier/QuentinDucoulombier/blob/main/READMEFR.md">here</a>
-</p>
-
 # 👋 About me
 
-<!-- La ici modifier egalement-->
-
-- 👨: Hello, I am 21 years old and I am in my first year of the engineering cycle at [CY Tech](https://cytech.cyu.fr) (computer engineering school) in Pau.  
-- 👾: I am passionate about computer science and sciences.  
-- 🔭: I am looking for an internship of 8 to 12 weeks in early June in the field of programming.  
+- 👨‍🎓: Hey! I'm a 22-year-old computer engineering student at [CY Tech](https://cytech.cyu.fr) in Pau, France, with a interest in computer science and its applications.
+- 🌏: Currently, I'm broadening my academic horizons through a semester-long exchange program at [NYCU](https://www.nycu.edu.tw/nycu/en/index) in Taiwan, focusing on advanced studies in computer science and artificial intelligence.
+- 🧠: My dedication to the field drives me to explore the latest advancements in AI and machine learning, seeking opportunities to apply innovative solutions to real-world challenges.
+- 💼: Actively pursuing apprenticeship opportunities in AI for the upcoming academic year 2024/2025, I aim to contribute my skills and knowledge to impactful projects in the field.
 
 # 📭 Contact
 
@@ -28,12 +23,6 @@
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinDucoulombier&layout=compact)-->
 
-<!--
-TODO:
-Rajouter JEE, Prolog,
-Rajouer soft squill ou jsp avec design pattern
-junit
--->
 
 # 📚 Computer language skills
 
@@ -65,7 +54,7 @@ junit
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Linux">Unix / Linux</a></td>
 			<td align="center"><a href="https://www.ansible.com/">Ansible</a></td>
 			<td></td>
-			<td></td>
+			<td align="center"><a href="https://junit.org/">JUnit</a></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a></td>
@@ -90,14 +79,28 @@ junit
 
 # 📂 Projects
 
+## 👨‍💻 AI Projects
+
+### 🎲 [15 Puzzle Solver](https://github.com/QuentinDucoulombier/15-Puzzle-Solver) (A* algorithm, November 2023)
+
+A Python program implementing the A* algorithm to solve the 15 puzzle game, also known as the "Taquin" puzzle. The program offers both manual and automatic solving options, allowing users to choose between Manhattan distance and Hamming distance heuristics.
+
+### ⭕ [Tic-tac-toe Solver](https://github.com/QuentinDucoulombier/Tic-tac-toe-Solver) (MiniMax algorithm, December 2023)
+
+This repository contains two Python programs, `morpionMiniMax.py` and `morpionAlphaBeta.py`, designed to solve the Tic-tac-toe game using different algorithms - Minimax and Alpha-Beta Pruning. The Minimax algorithm explores all possible game states to find the optimal move, while Alpha-Beta Pruning enhances this process by eliminating branches that cannot affect the final decision.
+
+<!--Add NYCU projects-->
+
+
 ## Projects in web developement
 
 ### 🌟 [Map It Out](https://github.com/QuentinDucoulombier/MapItOut) (Web Development, November 2023)
 
-<!--
-Website en jakarta EE (java) avec jsplus quel techno en respectant le principe MVC. Utilise aussi la bibliotheque jsplus
+Map It Out is a Jakarta EE project following the MVC architecture and CRUD API principles. It's a mapping application where users can mark and share their favorite locations, powered by Leaflet.js for map management. Perfect for keeping track of your go-to spots and sharing them with others!
 
-()-->
+<p align="center">
+	<a href="https://github.com/QuentinDucoulombier/MapItOut" width="700"><img src="./photo/mapItOut.png" width="800"></a>
+</p>
 
 ### 🧠 [IA Pau website](https://github.com/QuentinDucoulombier/ing1-gi-groupe-1) (Web Development, June 2023)
 
@@ -184,11 +187,7 @@ Example of a graph:
 	<a href="https://github.com/QuentinDucoulombier/Projet-Script-Shell-Pays"><img src="https://raw.githubusercontent.com/QuentinDucoulombier/Projet-Script-Shell-Pays/main/ressourcesReadme/screenProjetScriptShell.png" width="400"></a>
 </p>
 
-## IA projects
 
-<!--
-fdji
--->
 <!--
 ## 🔬 [Solving Schrödinger's equation](https://github.com/QuentinDucoulombier/Bureau-DEtude) (in C, May 2022)
 
@@ -205,12 +204,4 @@ For this we use two methods:
 
 - The rkf45 method
 - Powell's method
--->
-<!--
-TODO:
-- Rajouter projet JEE(infrastructure API, MVC)
-- Projet Java
-- Projet dev web l'année derniere V
-- Les design patern V
-- IA
 -->
