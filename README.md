@@ -91,8 +91,7 @@ This repository contains two Python programs, `morpionMiniMax.py` and `morpionAl
 
 <!--Add NYCU projects-->
 
-
-## Projects in web developement
+## 🌐 Projects in Web Development
 
 ### 🌟 [Map It Out](https://github.com/QuentinDucoulombier/MapItOut) (Web Development, November 2023)
 
