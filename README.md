@@ -68,8 +68,8 @@
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Prolog">Prolog</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Jakarta_EE">Jakarta EE</a></td>
-			<td align="center"><a href="https://www.docker.com/">Docker</a></td>
 			<td></td>
+			<td align="center"><a href="https://www.docker.com/">Docker</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
