@@ -133,22 +133,17 @@ Example of home page:
 	<a href="https://github.com/QuentinDucoulombier/CYTECH-dev-web/tree/main/INGdevWeb/ING1GI3-DUCOULOMBIER-QUENTIN"><img src="https://raw.githubusercontent.com/QuentinDucoulombier/CYTECH-dev-web/main/photo/articles.png" width="700"></a>
 </p>
 
-### 🎵 ~~Blind~~ test (Web development, In progress)
+### 🎵 [Beat the cover](https://github.com/QuentinDucoulombier/BeatTheCover/tree/dev) (Web development, In progress)
 
-Personal project under development of "blind test" developed in Node.js and ejs thanks to the spotify api.
+Personal project under development of "blind test" developed in Nodejs and ejs thanks to the spotify api.
   
-The concept is simple:  
-Every day the user has to guess a new music, for that he has several tries:
+BeatTheCover is a fun and interactive web-based game that challenges players to guess the title, artist, and genre of a song based on progressively revealed audio clips and album cover art.
 
-- At first only the cover of the music
-- Then an extract of the music for 10 seconds
-- Then the same extract for 30 seconds
-- ...
-
+<!--
 Current interface:  
 <p align="center">
 	<img src="https://raw.githubusercontent.com/QuentinDucoulombier/QuentinDucoulombier/main/photo/projetcover.png" width="700"></a>
-</p>
+</p>-->
 
 ## 💻 Projects in C
 
