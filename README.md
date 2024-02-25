@@ -122,7 +122,7 @@ BeatTheCover is a fun and interactive web-based game that challenges players to 
 
 Current interface:  
 <p align="center">
-	<img src="./photo/beatthecover.png" width="700"></a>
+	<a href="https://github.com/QuentinDucoulombier/BeatTheCover/tree/dev"><img src="./photo/beatthecover.png" width="700"></a>
 </p>
 
 ### 📖 [CY-Parcours](https://github.com/QuentinDucoulombier/CY-parcours) (Web Development, June 2022)
