@@ -114,6 +114,17 @@ Example of the home page (public access):
 
 For more information, check [here](https://docs.google.com/presentation/d/1qzV_f_YjHGfAb2iBl9mgQmtHlzuQVG42ra4eSolH0pw/edit?usp=sharing)
 
+### 🎵 [Beat the cover](https://github.com/QuentinDucoulombier/BeatTheCover/tree/dev) (Web development, In progress)
+
+Personal project under development of "blind test" developed in Nodejs and ejs thanks to the spotify api.
+  
+BeatTheCover is a fun and interactive web-based game that challenges players to guess the title, artist, and genre of a song based on progressively revealed audio clips and album cover art.
+
+Current interface:  
+<p align="center">
+	<img src="./photo/beatthecover.png" width="700"></a>
+</p>
+
 ### 📖 [CY-Parcours](https://github.com/QuentinDucoulombier/CY-parcours) (Web Development, June 2022)
 
 Website that assigns CY Tech options based on students' rankings and choices using the [stable marriage](https://en.wikipedia.org/wiki/Gale–Shapley_algorithm) algorithm (using js, php, html, css, ajax and jQuery).
@@ -133,17 +144,6 @@ Example of home page:
 	<a href="https://github.com/QuentinDucoulombier/CYTECH-dev-web/tree/main/INGdevWeb/ING1GI3-DUCOULOMBIER-QUENTIN"><img src="https://raw.githubusercontent.com/QuentinDucoulombier/CYTECH-dev-web/main/photo/articles.png" width="700"></a>
 </p>
 
-### 🎵 [Beat the cover](https://github.com/QuentinDucoulombier/BeatTheCover/tree/dev) (Web development, In progress)
-
-Personal project under development of "blind test" developed in Nodejs and ejs thanks to the spotify api.
-  
-BeatTheCover is a fun and interactive web-based game that challenges players to guess the title, artist, and genre of a song based on progressively revealed audio clips and album cover art.
-
-<!--
-Current interface:  
-<p align="center">
-	<img src="https://raw.githubusercontent.com/QuentinDucoulombier/QuentinDucoulombier/main/photo/projetcover.png" width="700"></a>
-</p>-->
 
 ## 💻 Projects in C
 
