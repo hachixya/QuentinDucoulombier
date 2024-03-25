@@ -24,7 +24,7 @@
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinDucoulombier&layout=compact)-->
 
 
-# 📚 Computer language skills
+# 📚 Computer Language Skills
 
 <table align="center">
 	<thead>
@@ -35,6 +35,7 @@
 			<th colspan="1"><b>DevOps Tools</b></th>
 			<th colspan="1"><b>Databases</b></th>
 			<th colspan="1"><b>Other</b></th>
+			<th colspan="1"><b>🧠 Artificial Intelligence</b></th>
 		</tr>
 	</thead>
 	<tbody>
@@ -46,6 +47,7 @@
 			<td align="center"><a href="https://www.jenkins.io/">Jenkins</a></td>
 			<td align="center"><a href="https://sql.sh">SQL</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Unix_shell">14 Design Patterns</a></td>
+			<td align="center"><a href="https://www.tensorflow.org/">TensorFlow</a>, <a href="https://pytorch.org/">PyTorch</a></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://www.python.org/">Python</a></td>
@@ -55,6 +57,7 @@
 			<td align="center"><a href="https://www.ansible.com/">Ansible</a></td>
 			<td></td>
 			<td align="center"><a href="https://junit.org/">JUnit</a></td>
+			<td align="center"><a href="https://scikit-learn.org/">Scikit-learn</a>, <a href="https://github.com/rail-berkeley/d4rl">D4RL</a></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a></td>
@@ -64,12 +67,14 @@
 			<td></td>
 			<td></td>
 			<td></td>
+			<td align="center"><a href="https://opencv.org/">OpenCV</a>, <a href="http://www.open3d.org/">Open3D</a></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Prolog">Prolog</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Jakarta_EE">Jakarta EE</a></td>
 			<td></td>
 			<td align="center"><a href="https://www.docker.com/">Docker</a></td>
+			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -81,11 +86,21 @@
 
 ## 👨‍💻 AI Projects
 
-### 🎲 [15 Puzzle Solver](https://github.com/QuentinDucoulombier/15-Puzzle-Solver) (A* algorithm, November 2023)
+### 🧠 [Reinforcement learning](https://github.com/QuentinDucoulombier/ReinforcementLearning) (In progress)
+
+This project serves as a dynamic archive of both completed assignments and future explorations into how agents learn to make decisions within an environment to maximize some notion of cumulative reward. It's a hands-on journey through trial and error, aiming at mastering decision-making processes.
+
+### 👁️‍🗨️ [Computer Vision](https://github.com/QuentinDucoulombier/ComputerVision) (In progress)
+
+A compilation of past homework and ongoing projects delving into how machines interpret and understand visual information from the world around us. This venture encompasses learning algorithms that allow computers to 'see' and analyze visual data in a manner akin to human perception, with applications ranging from image recognition to complex scene understanding.
+
+### 🌱 Fundamentals of AI
+
+#### 🎲 [15 Puzzle Solver](https://github.com/QuentinDucoulombier/15-Puzzle-Solver) (A* algorithm, November 2023)
 
 A Python program implementing the A* algorithm to solve the 15 puzzle game, also known as the "Taquin" puzzle. The program offers both manual and automatic solving options, allowing users to choose between Manhattan distance and Hamming distance heuristics.
 
-### ⭕ [Tic-tac-toe Solver](https://github.com/QuentinDucoulombier/Tic-tac-toe-Solver) (MiniMax algorithm, December 2023)
+#### ⭕ [Tic-tac-toe Solver](https://github.com/QuentinDucoulombier/Tic-tac-toe-Solver) (MiniMax algorithm, December 2023)
 
 This repository contains two Python programs, `morpionMiniMax.py` and `morpionAlphaBeta.py`, designed to solve the Tic-tac-toe game using different algorithms - Minimax and Alpha-Beta Pruning. The Minimax algorithm explores all possible game states to find the optimal move, while Alpha-Beta Pruning enhances this process by eliminating branches that cannot affect the final decision.
 
