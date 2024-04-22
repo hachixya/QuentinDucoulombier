@@ -3,7 +3,7 @@
 - 👨‍🎓: Hey! I'm a 22-year-old computer engineering student at [CY Tech](https://cytech.cyu.fr) in Pau, France, with a interest in computer science and its applications.
 - 🌏: Currently, I'm broadening my academic horizons through a semester-long exchange program at [NYCU](https://www.nycu.edu.tw/nycu/en/index) in Taiwan, focusing on advanced studies in computer science and artificial intelligence.
 - 🧠: My dedication to the field drives me to explore the latest advancements in AI and machine learning, seeking opportunities to apply innovative solutions to real-world challenges.
-- 💼: Actively pursuing apprenticeship opportunities in AI for the upcoming academic year 2024/2025, I aim to contribute my skills and knowledge to impactful projects in the field.
+- 💼: Actively pursuing work-study program opportunities in AI for the upcoming academic year 2024/2025, I aim to contribute my skills and knowledge to impactful projects in the field.
 
 # 📭 Contact
 
@@ -14,10 +14,6 @@
 	<span>&nbsp;</span>
 	<a href="mailto:quentinducoulombier1@gmail.comm">
 		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-	</a>
-	<span>&nbsp;</span>
-	<a href="./">
-		<img src="https://img.shields.io/badge/-Curriculum vitæ-000000?style=for-the-badge&logo=react&logoColor=white">
 	</a>
 </p>
 
@@ -93,6 +89,10 @@ This project serves as a dynamic archive of both completed assignments and futur
 ### 👁️‍🗨️ [Computer Vision](https://github.com/QuentinDucoulombier/ComputerVision) (In progress)
 
 A compilation of past homework and ongoing projects delving into how machines interpret and understand visual information from the world around us. This venture encompasses learning algorithms that allow computers to 'see' and analyze visual data in a manner akin to human perception, with applications ranging from image recognition to complex scene understanding.
+
+### 📊 [Data mining](https://github.com/QuentinDucoulombier/dataMining)
+
+This repository is designated as a central hub for my upcoming homework assignments and the final project in my Data Mining course. It will feature a range of exploratory data analysis techniques and sophisticated algorithms aimed at extracting meaningful patterns and insights from large datasets. As the semester progresses, this repository will be updated with new code and documentation.
 
 ### 🌱 Fundamentals of AI
 
