@@ -31,7 +31,7 @@
 			<th colspan="1"><b>DevOps Tools</b></th>
 			<th colspan="1"><b>Databases</b></th>
 			<th colspan="1"><b>Other</b></th>
-			<th colspan="1"><b>🧠 Artificial Intelligence</b></th>
+			<th colspan="1"><b>Artificial Intelligence</b></th>
 		</tr>
 	</thead>
 	<tbody>
@@ -90,7 +90,7 @@ This project serves as a dynamic archive of both completed assignments and futur
 
 A compilation of past homework and ongoing projects delving into how machines interpret and understand visual information from the world around us. This venture encompasses learning algorithms that allow computers to 'see' and analyze visual data in a manner akin to human perception, with applications ranging from image recognition to complex scene understanding.
 
-### 📊 [Data mining](https://github.com/QuentinDucoulombier/dataMining)
+### 📊 [Data mining](https://github.com/QuentinDucoulombier/dataMining) (In progress)
 
 This repository is designated as a central hub for my upcoming homework assignments and the final project in my Data Mining course. It will feature a range of exploratory data analysis techniques and sophisticated algorithms aimed at extracting meaningful patterns and insights from large datasets. As the semester progresses, this repository will be updated with new code and documentation.
 
@@ -124,7 +124,7 @@ This website utilizes various technologies including Html/css, js, php, MySQL, a
 
 Example of the home page (public access):
 <p align="center">
-	<a href="https://github.com/QuentinDucoulombier/ing1-gi-groupe-1" width="700"><img src="./photo/public.gif" width="800"></a>
+ <a href="https://github.com/QuentinDucoulombier/ing1-gi-groupe-1" width="700"><img src="./photo/public.gif" width="800"></a>
 </p>
 
 For more information, check [here](https://docs.google.com/presentation/d/1qzV_f_YjHGfAb2iBl9mgQmtHlzuQVG42ra4eSolH0pw/edit?usp=sharing)
