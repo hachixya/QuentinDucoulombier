@@ -1,9 +1,8 @@
 # 👋 About me
 
-- 👨‍🎓: Hey! I'm a 22-year-old computer engineering student at [CY Tech](https://cytech.cyu.fr) in Pau, France, with a interest in computer science and its applications.
+- 👨‍🎓: Hey! I'm a 22-year-old computer engineering student at [CY Tech](https://cytech.cyu.fr) in France, with a interest in artifical intelligence, computer science and its applications.
 - 🌏: Currently, I'm broadening my academic horizons through a semester-long exchange program at [NYCU](https://www.nycu.edu.tw/nycu/en/index) in Taiwan, focusing on advanced studies in computer science and artificial intelligence.
-- 🧠: My dedication to the field drives me to explore the latest advancements in AI and machine learning, seeking opportunities to apply innovative solutions to real-world challenges.
-- 💼: Actively pursuing work-study program opportunities in AI for the upcoming academic year 2024/2025, I aim to contribute my skills and knowledge to impactful projects in the field.
+
 
 # 📭 Contact
 
@@ -19,7 +18,7 @@
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinDucoulombier&layout=compact)-->
 
-
+<!--
 # 📚 Computer Language Skills
 
 <table align="center">
@@ -104,7 +103,6 @@ A Python program implementing the A* algorithm to solve the 15 puzzle game, also
 
 This repository contains two Python programs, `morpionMiniMax.py` and `morpionAlphaBeta.py`, designed to solve the Tic-tac-toe game using different algorithms - Minimax and Alpha-Beta Pruning. The Minimax algorithm explores all possible game states to find the optimal move, while Alpha-Beta Pruning enhances this process by eliminating branches that cannot affect the final decision.
 
-<!--Add NYCU projects-->
 
 ## 🌐 Projects in Web Development
 
@@ -195,7 +193,7 @@ Example of a graph:
 <p align="center">
 	<a href="https://github.com/QuentinDucoulombier/Projet-Script-Shell-Pays"><img src="https://raw.githubusercontent.com/QuentinDucoulombier/Projet-Script-Shell-Pays/main/ressourcesReadme/screenProjetScriptShell.png" width="400"></a>
 </p>
-
+-->
 
 <!--
 ## 🔬 [Solving Schrödinger's equation](https://github.com/QuentinDucoulombier/Bureau-DEtude) (in C, May 2022)
